@@ -3,7 +3,7 @@ import {
   FileText, 
   Wrench, 
   Receipt, 
-  Play,
+  Signal,
   Star
 } from "lucide-react"
 
@@ -33,8 +33,8 @@ const features = [
     description: ""
   },
   {
-    icon: Play,
-    title: "Activar tu",
+    icon: Signal,
+    title: "Actualizate a la",
     highlight: "Red 5G",
     description: "",
     isDisney: true

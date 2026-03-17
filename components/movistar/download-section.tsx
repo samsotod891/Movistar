@@ -16,9 +16,12 @@ export function DownloadSection() {
           <p className="text-[#0b2739] text-lg mb-4">
             Y tú, ¿ya la descargaste?
           </p>
-          <button className="bg-[#e63780] hover:bg-[#d42e70] text-white font-semibold px-8 py-3 rounded-full transition-colors shadow-lg">
+          <a 
+            href="#" 
+            className="inline-block bg-[#e63780] hover:bg-[#d42e70] text-white font-semibold px-8 py-3 rounded-full transition-colors shadow-lg"
+          >
             Descárgala aquí
-          </button>
+          </a>
         </div>
         
         {/* Person with phone image */}

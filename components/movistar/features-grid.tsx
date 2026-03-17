@@ -35,7 +35,7 @@ const features = [
   {
     icon: Play,
     title: "Activar tu",
-    highlight: "Disney+",
+    highlight: "Red 5G",
     description: "",
     isDisney: true
   },

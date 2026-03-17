@@ -35,6 +35,26 @@ export const metadata: Metadata = {
     ],
     apple: '/apple-icon.png',
   },
+  openGraph: {
+    title: 'App Mi Movistar | Movistar Perú',
+    description: 'Descarga la App Mi Movistar y gestiona tu línea, consulta tu plan, paga tus recibos y mucho más.',
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'App Mi Movistar - Movistar Perú',
+      },
+    ],
+    locale: 'es_PE',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'App Mi Movistar | Movistar Perú',
+    description: 'Descarga la App Mi Movistar y gestiona tu línea, consulta tu plan, paga tus recibos y mucho más.',
+    images: ['/og-image.jpg'],
+  },
 }
 
 export const viewport: Viewport = {

@@ -37,7 +37,7 @@ const features = [
     title: "Actualizate a la",
     highlight: "Red 5G",
     description: "",
-    isDisney: true
+    isDisney: false
   },
   {
     icon: Star,

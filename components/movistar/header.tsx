@@ -1,6 +1,6 @@
 "use client"
 
-import { Menu, Bell } from "lucide-react"
+import { Menu } from "lucide-react"
 import { useState } from "react"
 
 export function Header() {
@@ -33,18 +33,10 @@ export function Header() {
           </button>
         </div>
 
-        {/* Right icons */}
-        <div className="flex items-center gap-4">
-          <div className="relative">
-            <Bell className="w-6 h-6" />
-            <span className="absolute -top-1 -right-1 bg-red-500 text-white text-xs w-4 h-4 rounded-full flex items-center justify-center">
-              1
-            </span>
-          </div>
-          <button onClick={() => setMenuOpen(!menuOpen)} aria-label="Abrir menú">
-            <Menu className="w-7 h-7" />
-          </button>
-        </div>
+        {/* Menu button */}
+        <button onClick={() => setMenuOpen(!menuOpen)} aria-label="Abrir menú">
+          <Menu className="w-7 h-7" />
+        </button>
       </div>
 
       {/* Mobile Menu */}

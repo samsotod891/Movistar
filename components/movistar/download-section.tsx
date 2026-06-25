@@ -22,10 +22,10 @@ export function DownloadSection() {
         <div className="flex-1 flex justify-end self-stretch">
           <div className="relative w-full h-full flex items-end justify-end">
             <Image
-              src="/images/banner-mobile.webp"
+              src="/images/banner-mobile.png"
               alt="Descarga la App Mi Movistar"
-              width={1080}
-              height={720}
+              width={1672}
+              height={941}
               className="object-cover w-full h-full max-h-[420px] lg:max-h-[480px]"
               priority
               sizes="56vw"
@@ -51,10 +51,10 @@ export function DownloadSection() {
 
         {/* Mujer — abajo, full width */}
         <Image
-          src="/images/banner-mobile.webp"
+          src="/images/banner-mobile.png"
           alt="Descarga la App Mi Movistar"
-          width={1080}
-          height={720}
+          width={1672}
+          height={941}
           className="object-cover w-full h-auto"
           priority
           sizes="100vw"

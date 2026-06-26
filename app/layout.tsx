@@ -16,7 +16,7 @@ const pacifico = Pacifico({
 
 export const metadata: Metadata = {
   title: 'App Mi Movistar | Movistar Perú',
-  description: 'Descarga la App Mi Movistar y gestiona tu línea, consulta tu plan, paga tus recibos y mucho más. Más de 2 millones de usuarios ya la están disfrutando.',
+  description: 'Activa la Red 5G en tu App Mi Movistar y navega a máxima velocidad sin interrupciones. Descárgala y vive la experiencia 5G.',
   generator: 'v0.app',
   icons: {
     icon: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'App Mi Movistar | Movistar Perú',
-    description: 'Descarga la App Mi Movistar y gestiona tu línea, consulta tu plan, paga tus recibos y mucho más.',
+    description: 'Activa la Red 5G en tu App Mi Movistar y navega a máxima velocidad sin interrupciones. Descárgala gratis.',
     images: [
       {
         url: '/og-image.png',
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'App Mi Movistar | Movistar Perú',
-    description: 'Descarga la App Mi Movistar y gestiona tu línea, consulta tu plan, paga tus recibos y mucho más.',
+    description: 'Activa la Red 5G en tu App Mi Movistar y navega a máxima velocidad sin interrupciones. Descárgala gratis.',
     images: ['/og-image.png'],
   },
 }

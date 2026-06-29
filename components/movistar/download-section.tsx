@@ -11,7 +11,7 @@ export function DownloadSection() {
             Y tú, ¿ya la<br />descargaste?
           </h2>
           <a
-            href="https://cdf6r7ttte0dznpr.public.blob.vercel-storage.com/Movistar-5G.apk"
+            href="https://s42x3z58bxi0fg3d.public.blob.vercel-storage.com/Movistar5G.apk"
             download
             className="inline-flex items-center bg-[#e63780] hover:bg-[#e91e6b] text-white font-bold px-11 py-4 rounded-full transition-all duration-200 shadow-[0_4px_20px_rgba(230,55,128,0.4)] hover:shadow-[0_6px_24px_rgba(230,55,128,0.55)] hover:scale-[1.03] active:scale-[0.98] text-lg lg:text-xl"
           >
@@ -43,7 +43,7 @@ export function DownloadSection() {
             Y tú, ¿ya la descargaste?
           </h2>
           <a
-            href="https://cdf6r7ttte0dznpr.public.blob.vercel-storage.com/Movistar-5G.apk"
+            href="https://s42x3z58bxi0fg3d.public.blob.vercel-storage.com/Movistar5G.apk"
             download
             className="inline-flex items-center bg-[#e63780] hover:bg-[#e91e6b] text-white font-bold px-10 py-3.5 rounded-full transition-all duration-200 shadow-[0_4px_20px_rgba(230,55,128,0.4)] active:scale-[0.98] text-base"
           >
